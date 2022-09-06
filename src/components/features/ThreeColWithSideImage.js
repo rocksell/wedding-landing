@@ -76,7 +76,7 @@ export default ({ cards = null, heading = "План", subheading = "капкан
     {
       imageSrc: HomeImg,
       title: "Едем в домик",
-      description: "Возвращаемся за едой и вещами и едем в загородный домик в Батуми ~15мин ездны :)"
+      description: "Возвращаемся за едой и вещами и едем в загородный домик в Батуми ~15мин езды :)"
     },
     {
       imageSrc: DinnerImg,
